@@ -7,7 +7,7 @@ const set: Set = {
 	name: {
 		// de: "Unschlagbare Gene",
 		en: "Extradimensional Crisis",
-		// es: "Genes Formidables",
+		es: "Crisis Extradimensional",
 		// fr: "Puissance Génétique",
 		// it: "Geni Supremi",
 		// 'pt-br': "Dominação Genética",
