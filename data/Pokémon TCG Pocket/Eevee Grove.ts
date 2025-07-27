@@ -7,7 +7,7 @@ const set: Set = {
 	name: {
 		// de: "Hüter des Firmaments",
 		en: "Eevee Grove",
-		// es: "Guardianes Celestiales",
+		es: "Arboleda de Eevee",
 		// fr: "Gardiens Astraux",
 		// it: "Guardiani Astrali",
 		// 'pt-br': "Guardiões Celestiais",
